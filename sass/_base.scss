@@ -43,9 +43,4 @@ body {
     [center-end] minmax(6rem, 1fr)
     [full-end];
 
-  & > * {
-    // Test only, remove later
-    padding: 40px;
-    font-size: 3rem;
-  }
 }
